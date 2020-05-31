@@ -1,4 +1,4 @@
-# Photo Map
+# Message Map
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -10,16 +10,15 @@
 ## Overview
 ### Description
 
-Photo Map is an app that will allow the user to take a photo, tag it with a location, and then see a map with all the previously tagged photos.
+Message Map is an app that will allow the user to add a message, tag it with a location, and then see a map with all the previously tagged message.
 
 ## Product Specs
 ### User Stories
 
-- [ ] Add user stories here...
-- [ ] User shall be able to see a map of their geolocation.
-- [ ] User shall be able to long click on the map and have the ability to type a message and have a marker displayed at that position.
-- [ ] User shall be able to see a speech bubble of the message that they have previously entered at the marked position.
-- [ ] User shall be able to drag the map and markers.
+- [x] User shall be able to see a map of their geolocation.
+- [x] User shall be able to long click on the map and have the ability to type a message and have a marker displayed at that position.
+- [x] User shall be able to see a speech bubble of the message that they have previously entered at the marked position.
+- [x] User shall be able to drag the map and markers.
 
 ## App Walkthrough
 
