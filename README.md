@@ -24,7 +24,7 @@ Message Map is an app that will allow the user to add a message, tag it with a l
 
 Here's a GIF of how the app works:
 
-<img src="ADD_GIF_LINK" width=250><br>
+<img src="https://user-images.githubusercontent.com/35745973/83343979-13e8e880-a2b6-11ea-9cab-3573b22e3821.gif" width=250><br>
 
 ## APIs
 
