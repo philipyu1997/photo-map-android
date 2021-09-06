@@ -24,7 +24,7 @@ Message Map is an app that will allow the user to add a message, tag it with a l
 
 Here's a GIF of how the app works:
 
-<img src="https://github.com/py415/app-resources/blob/master/android/android-message-map.gif" width=250><br>
+<img src="https://raw.githubusercontent.com/py415/app-resources/master/android/android-message-map.gif" width="250" />
 
 ## APIs
 
